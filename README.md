@@ -1,13 +1,10 @@
-# SmartESC STM32 v3 (EBiCS Fork..Working Vesc Software for configuring flashed device....
+# SmartESC STM32 v3 (EBiCS Fork..Working firmware with current Vesc Software UART protocol integration in the m365 fw for configuring flashed device....
 I only have these requests to make if you find yourself using this config with these changes I have made I did so to be able to configure it using the current version of the VESC Firmware software from my pc using a USB to TTL serial cable....Will post an actual package if it would help for ease of use.
 Please feel free to commit if you feel the need and if there are any problems please also let me know
 
 Post your results for your benchtests please
 
-For the last working "stancecoke" version, switch to the v0.5 branch!
-https://github.com/Koxx3/SmartESC_STM32_v3/tree/v0.5
-
-Attention: new logic to activate the autodetect procedure:
+]\Attention: new logic to activate the autodetect procedure:
 Pull the brake lever and press the dashboard button for 5 seconds!
 
 Fork of EBiCS firmware for Lishui devices. Ported to Xiaomi M365 controller.
